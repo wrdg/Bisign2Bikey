@@ -7,3 +7,5 @@ There are various ways to use Bisign2Bikey, any of the following will produce a 
 * Drag any .bisign file(s) over top of the executable
 * Drag addons folder(s) of mod over top of the executable
 * Drag @ModName folder(s) over top of the executable
+
+![Example Output](./img/example1.png)
