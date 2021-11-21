@@ -9,6 +9,6 @@ There are various ways to use Bisign2Bikey, any of the following will produce a 
 * Drag @ModName folder(s) over top of the executable
 
 # Example
-`Bisign2Bikey.exeScripts.pbo.Jacob_Mango_V3.bisign Scripts.pbo.Wardog.v3.bisign  /s`
+`Bisign2Bikey.exe Scripts.pbo.Jacob_Mango_V3.bisign Scripts.pbo.Wardog.v3.bisign  /s`
 
 ![Example Output](./img/example1.png)
